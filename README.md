@@ -20,9 +20,9 @@ Contribuições e sugestões são bem-vindas.
 
 ### Realização:
 Esse trabalho é uma produção do **LEFF - UFRGS**:
-- Universidade Federal do Rio Grande do Sul (UFRGS),
--- Departamento de Ecologia,
---- Laboratório de Ecologia Filogenética e Funcional (LEFF)
+> Laboratório de Ecologia Filogenética e Funcional (LEFF),
+> Departamento de Ecologia, 
+> Universidade Federal do Rio Grande do Sul (UFRGS)
 
 ### Agradecimentos: 
 Nós agradecemos ao INCT Ecologia, Evolução e 
